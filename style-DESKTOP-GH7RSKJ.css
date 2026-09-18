@@ -1,0 +1,114 @@
+body{
+    color:black;
+    text-align: justify;
+    background-image:url(nfxpics.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    text-transform:capitalize;
+    text-indent: 50px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: arial, impact;
+    font-style: normal;
+    font-weight: bolder;
+}
+h1{
+    color:black;
+    text-align: center;
+   background-color: red;
+   opacity: 0.8;
+   text-decoration: underline;
+   border-style:outset;
+   border:15px solid black;
+   border-top-style:double;
+   border-bottom-style:double;
+   border-right-style:double;
+   border-left-style:double;
+   border-radius: 50px 50px 50px 50px;
+   margin: 50px 50px 50px 50px;
+   text-shadow: 2px 2px 5px rgba(202, 210, 209, 0.804);
+}
+    
+   .nazzy{
+    font-size: 18px;
+    text-align: center;
+    text-decoration:wavy;
+    line-height: 1.5;
+   }
+   a:visited{
+    color: blue;
+    background-color: transparent;
+    text-decoration:underline;
+   }
+
+   a:hover{
+    color:black;
+    background-color: aliceblue;
+   }
+   a:active{
+    color:red;
+    background-color: transparent;
+    text-decoration:underline;
+   }
+   ul{
+    list-style-type:circle;
+    margin: 20px;
+    padding: 20px;
+    
+   }
+   ul li{
+    background-color: lightblue;
+    margin: 10px;
+    margin-right:950px;
+    
+    line-height:1.5;
+   }
+   ol{
+    list-style-type:square;
+    
+    margin: 20px;
+    padding: 20px;
+    
+   }
+   ol li{
+    background-color: lightblue;
+    margin: 10px;
+    margin-right:950px;
+    
+    line-height: 1.5;
+   }
+   
+.naz{
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+}
+table th, table td{
+    
+    border: 1px solid black;
+    padding: 10px;
+    text-align:center;
+}
+table th{
+    text-align: center;
+    background-color: aqua;
+    width: 40px;
+}
+table td{
+    background-color: lightblue;
+
+    
+} 
+table{
+    border-collapse: collapse;
+    width: 20px;
+   
+}
+table td{
+    height: 5px;
+    vertical-align:bottom;
+}
+tr :hover{
+    background-color:chocolate;
+}
